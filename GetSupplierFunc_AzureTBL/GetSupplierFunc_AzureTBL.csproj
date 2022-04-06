@@ -9,7 +9,7 @@
     <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\PracADOWeb\Supplier_AzureTBLRModel\Supplier_AzureTBLRModel.csproj" />
+    <ProjectReference Include="..\..\AzureProjWebApp\Supplier_AzureTBLRModel\Supplier_AzureTBLRModel.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">

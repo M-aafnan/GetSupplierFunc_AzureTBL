@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSupplierFunc_AzureTBL", "GetSupplierFunc_AzureTBL\GetSupplierFunc_AzureTBL.csproj", "{1CF2D990-5902-49E9-86B1-BB6C5CB20F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetSupplierFunc_AzureTBL", "GetSupplierFunc_AzureTBL\GetSupplierFunc_AzureTBL.csproj", "{1CF2D990-5902-49E9-86B1-BB6C5CB20F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supplier_AzureTBLRModel", "..\PracADOWeb\Supplier_AzureTBLRModel\Supplier_AzureTBLRModel.csproj", "{7B609400-C4E7-4F2F-8442-C9F560FD54FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supplier_AzureTBLRModel", "..\AzureProjWebApp\Supplier_AzureTBLRModel\Supplier_AzureTBLRModel.csproj", "{7B609400-C4E7-4F2F-8442-C9F560FD54FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
